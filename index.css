@@ -5,7 +5,8 @@
     justify-content: center;
     flex-direction: column;
     background-color: rgb(224, 150, 150);
-    align-items:center}
+    align-items:center; /*align horizontally*/
+}
 
 .box
 {
