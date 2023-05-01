@@ -12,6 +12,6 @@
     width: 50%;
     height: 100px;
     background-color: aqua;
-    margin: 25px 0;
+    margin: 25px 0; /*first for y and second for x*/
 }
 
